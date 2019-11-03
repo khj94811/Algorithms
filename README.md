@@ -1,4 +1,5 @@
-# Algorithms
-어떤 알고리즘과 자료구조를 추가할까요?
-
-오류나 수정사항이 있을 수도 있습니다.
+# Algorithms & Data Structure
+### 현재 추가 된 자료구조
+- Stack   (19.11.03)
+- Queue   (19.11.03)
+- Vector  (19.11.03)
