@@ -18,6 +18,9 @@ struct Stack{
     bool empty(){
         return stackidx == 0;
     }
+    int size(){
+        return stackidx;
+    }
 };
 
 int main(){
