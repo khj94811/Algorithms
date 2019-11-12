@@ -7,7 +7,7 @@ template<typename T>
 struct Queue{
     T arr[Q_SIZE];
     int qfront, qback, qsize;
-    Stack(){ qfront = qback = 0; }
+    Queue(){ qfront = qback = 0; }
     void push(T val){
         arr[qback] = val;
         qback = (qback + 1) % Q_SIZE;
