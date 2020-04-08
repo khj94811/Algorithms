@@ -4,28 +4,30 @@
 
 ## 현재 추가 된 자료구조
 
-- Stack         (v.0.0.1 / 19.11.03)
+- Stack    
 
-- Queue         (v.0.0.1 / 19.11.03)
+- Queue
 
-- Vector        (v.0.0.1 / 19.11.03)
+- Vector  
 
-- Heap          (v.0.0.1 / 19.11.03)
+- Heap
 
-- Disjoint Set  (v.0.0.1 / 19.11.07)
+- Disjoint Set
 
-- Linked List   (v.0.0.1 / 19.11.09)
+- Linked List
 
-- Hash Table    (v.0.0.1 / 19.11.09)
-
+- Hash Table
 
 ## 현재 추가 된 알고리즘
 
-- Merge Sort    (v.0.0.1 / 19.11.04)
+- Merge Sort
 
-- Binary Search (v.0.0.1 / 19.11.04)
+- Binary Search
 
-- Lower Bound   (v.0.0.1 / 19.11.07)
+- Dijkstra Algorithm
 
-- Upper Bound   (v.0.0.1 / 19.11.07)
+- Lower Bound & Upper Bound
 
+- Lowest Common Ancestor
+
+- Strongly Connected Component
