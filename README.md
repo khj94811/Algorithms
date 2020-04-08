@@ -18,16 +18,22 @@
 
 - Hash Table
 
+- Fenwick Tree (Python)
+
+- SQRT Decomposition
+
 ## 현재 추가 된 알고리즘
 
 - Merge Sort
 
 - Binary Search
 
-- Dijkstra Algorithm
+- Dijkstra Algorithm (Kotlin)
 
 - Lower Bound & Upper Bound
 
 - Lowest Common Ancestor
 
 - Strongly Connected Component
+
+- Dinic Algorithm+
