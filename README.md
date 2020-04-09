@@ -4,19 +4,15 @@
 
 ## 현재 추가 된 자료구조
 
-- Stack    
-
-- Queue
-
-- Vector  
-
-- Heap
+- STL
+    - Stack    
+    - Queue
+    - Vector  
+    - Heap 
+    - Linked List
+    - Hash Table
 
 - Disjoint Set
-
-- Linked List
-
-- Hash Table
 
 - Fenwick Tree (Python)
 
@@ -36,4 +32,8 @@
 
 - Strongly Connected Component
 
-- Dinic Algorithm+
+- Dinic Algorithm
+
+- Bipartite Matching
+
+- LCP & Suffix Array
