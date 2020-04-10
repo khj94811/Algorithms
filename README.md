@@ -15,6 +15,8 @@
 - Interval Data Structure    
     - Fenwick Tree (Python)
     - SQRT Decomposition
+    - Segment Tree (Min)
+    - 2D Fenwick Tree (Python)
 
 - Disjoint Set
 
