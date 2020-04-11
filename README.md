@@ -28,6 +28,7 @@
     - Strongly Connected Component
     - Dinic Algorithm
     - Bipartite Matching
+    - Heavy Light Decomposition
 
 - String
     - LCP & Suffix Array
