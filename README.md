@@ -1,6 +1,5 @@
 # Algorithms & Data Structure
 
-
 ## 현재 추가 된 자료구조
 
 - STL
@@ -26,9 +25,11 @@
     - Dijkstra Algorithm (Kotlin)
     - Lowest Common Ancestor
     - Strongly Connected Component
-    - Dinic Algorithm
-    - Bipartite Matching
     - Heavy Light Decomposition
+    - Network Flow
+        - Dinic Algorithm
+        - Bipartite Matching
+        - MCMF
 
 - String
     - LCP & Suffix Array
