@@ -38,3 +38,5 @@
 
 - Lower Bound & Upper Bound
 
+- Parallel Binary Search
+
