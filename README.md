@@ -29,7 +29,7 @@
     - Network Flow
         - Dinic Algorithm
         - Bipartite Matching
-        - MCMF
+        - MCMF (C++ / Kotlin)
 
 - String
     - LCP & Suffix Array
